@@ -39,7 +39,7 @@
 #### 💰 [Expense Tracker API](https://github.com/adikssl/expense-tracker-api)
 
 
-REST API for personal finance accounting. Features a layered architecture (router/service/repository), JWT auth with refresh token rotation, PostgreSQL + Prisma with transactional wallet operations, Zod validation, Swagger docs, CI/CD via GitHub Actions, and Docker-based deployment with SSH auto-deploy. Load-tested with k6 and includes a standalone currency-cache microservice.
+REST API for personal finance accounting. Features a layered architecture (router/service/repository), JWT auth with refresh token rotation, PostgreSQL + Prisma with transactional wallet operations, Zod validation, Swagger docs, CI/CD via GitHub Actions.
 
 `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker` `ZOD`
 
