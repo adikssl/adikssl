@@ -1,54 +1,76 @@
-<h1 align="center">Hi, I'm Adilzhan 👋</h1>
+# Hi, I'm Adilzhan 👋
 
-<h3 align="center">Backend Node.js Developer</h3>
+**Backend / Fullstack Developer | Go & TypeScript**
 
-<p align="center">
-  <i>Building robust and well-structured APIs, one commit at a time.</i>
-</p>
+*Building robust and well-structured APIs, one commit at a time.*
 
-<p align="center">
-  📍 Astana, Kazakhstan &nbsp;•&nbsp; 🎓 Cybersecurity @ Astana IT University
-</p>
+📍 Astana, Kazakhstan • 🎓 Cybersecurity @ Astana IT University
+
+---
+
+### 👨‍💻 About Me
+
+I'm a cybersecurity student passionate about backend development and building reliable applications.
+
+- 🐹 Currently learning **Go**, REST APIs, and backend development.
+- ⚙️ Previously built backend projects with **Node.js, TypeScript, Express, and PostgreSQL**.
+- ⚛️ Have previous experience with **React** and currently refreshing my frontend skills.
+- 📚 Interested in clean architecture, databases, concurrency, and software engineering.
+- 🎯 Looking for a **Backend / Fullstack Internship** to gain experience working on real-world products.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
+**Backend & Languages**
+
+Node.js · TypeScript · JavaScript · Express · Go (Learning)
+
+**Frontend**
+
+React (Previous Experience)
+
+**Databases & Tools**
+
+PostgreSQL · Prisma · MongoDB · Git · Docker
+
+**Other Technologies**
+
+JWT · Zod · Swagger/OpenAPI · GitHub Actions
 
 ---
 
-### 🚀 Featured Project
-
-<table>
-<tr>
-<td width="70%" valign="top">
+### 🚀 Featured Projects
 
 #### 💰 [Expense Tracker API](https://github.com/adikssl/expense-tracker-api)
 
+REST API for personal finance accounting. Features a layered architecture (router/service/repository), JWT authentication with refresh token rotation, PostgreSQL + Prisma with transactional wallet operations, Zod validation, Swagger documentation, and CI/CD via GitHub Actions.
 
-REST API for personal finance accounting. Features a layered architecture (router/service/repository), JWT auth with refresh token rotation, PostgreSQL + Prisma with transactional wallet operations, Zod validation, Swagger docs, CI/CD via GitHub Actions.
+`Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker` `Zod`
 
-`Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker` `ZOD`
+#### ⚙️ Task Processing System - Go
 
-<td width="30%" valign="top">
-<img src="assets/expense-tracker.jpg" width="100%">
-</td>
-</tr>
-</table>
+A learning project focused on concurrent task processing and safe state management in Go.
+
+- Implemented concurrent workers using goroutines and channels.
+- Used context and WaitGroup for synchronization and graceful shutdown.
+- Built an in-memory task manager with RWMutex.
+- Used atomic counters to track task statistics.
+- Implemented task status management and error handling.
+
+`Go` `Goroutines` `Channels` `Context` `WaitGroup` `RWMutex` `Atomic`
+
+*Repository link coming soon.*
 
 ---
 
-<p align="center"><i>"Still learning..."</i></p>
+### 📖 Currently Learning
+
+- Go backend development
+- HTTP and REST API design
+- PostgreSQL and SQL
+- React and TypeScript
+
+---
+
+*"Always learning, always building."*
